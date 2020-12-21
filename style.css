@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    font-family: "Times New Roman", Georgia, serif;
+    color: blue;
+    background-color: lightgray;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 1.6em;
+    word-spacing: 2em;
+    text-align: center;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkred;
+    size: 18px;
+    letter-spacing: 1.4em;
+}
+
+p{
+    max-width: 25em;
+    text-align: justify;
+    color: black;
+    size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ol li{
+    padding: 5px;
+}
